@@ -1,0 +1,684 @@
+aardvarks
+abalones
+acarines
+accentors
+adders
+agamids
+agoutis
+albatrosses
+alewifes
+alligators
+alpacas
+american bisons
+american chameleons
+amphibians
+amphipods
+anacondas
+anapsids
+annelids
+anoas
+anseriform birds
+antelopes
+anthozoans
+anthropoid apes
+ants
+apes
+aphids
+apodiform birds
+aquatic birds
+aquatic mammals
+aquatic vertebrates
+arabian camels
+arachnids
+archosaurs
+armadillos
+arthropods
+ascidians
+asian wild oxen
+asses
+auks
+aye ayes
+babies
+baboons
+badgers
+bandicoots
+barnacles
+barracudas
+bassarisks
+bats
+bears
+beavers
+beefs
+bees
+beetles
+belugas
+bettongs
+big cats
+big games
+bighorns
+bird of prey
+bisons
+bivalves
+blackbucks
+black footed ferrets
+blennioid fish
+bloodhounds
+bloodworms
+boas
+bobcats
+bony fish
+boobies
+bottom-feeders
+bovids
+bovines
+brachiopods
+brahmans
+broncos
+brown bears
+bryozoans
+bucks
+budgerigars
+bugs
+bullfrogs
+bullocks
+bulls
+bumblebees
+bunnies
+burros
+bushbucks
+butterflies
+buzzards
+caimans
+calfs
+camels
+canaries
+canines
+capybaras
+carabaos
+caracals
+caribous
+carnivores
+cartilaginous fish
+caterpillars
+cats
+cattle
+cavies
+centipedes
+cephalochordates
+cephalopods
+cetaceans
+chameleons
+chamoises
+characins
+cheetahs
+chelonians
+chickadees
+chickens
+chicks
+chihuahuas
+chimpanzees
+chinchillas
+chipmunks
+chitons
+chordates
+cicadas
+civets
+clams
+clupeid fish
+coastal diving birds
+coatis
+cobras
+cockateels
+cockatoos
+cockles
+cockroaches
+cocks
+cods
+coelenterates
+collared peccaries
+collembolans
+columbiform birds
+common iguanas
+common raccoons
+conchs
+condors
+constrictors
+copepods
+coraciiform birds
+coral
+cormorants
+corvine birds
+cougars
+cowbirds
+cows
+coyotes
+coypus
+crabs
+cranes
+crayfish
+creepers
+crickets
+crinoids
+critters
+crocodiles
+crocodilian reptiles
+crows
+crustaceans
+ctenophores
+cuckoos
+cuculiform birds
+cuttlefish
+cyprinids
+cypriniform fish
+cyprinodonts
+dams
+decapod crustaceans
+decapods
+deers
+diapsids
+dictyopterous insects
+dik diks
+dingos
+dinoceras
+dinocerates
+dinosaurs
+dipterous insects
+dodos
+dogs
+dolphinfish
+dolphins
+domestic animals
+domestic asses
+domestic fowls
+dormouse
+dotterels
+doves
+dragonflies
+dragons
+ducklings
+ducks
+dugongs
+eagles
+eared seals
+earthworms
+echidnas
+echinoderms
+edentates
+eels
+egrets
+elands
+elapids
+elasmobranchs
+elaterid beetles
+elephants
+elks
+emus
+ephemerids
+equines
+ermines
+european wolf spiders
+even-toed ungulates
+ewes
+falcons
+fawns
+feeders
+felines
+females
+fetus
+finch
+fireflies
+fishers
+fish
+flamingos
+flatfish
+flatheads
+flatworms
+fleas
+flies
+flukes
+flying foxes
+foals
+foxes
+frogs
+fruit bats
+fur seals
+gadoids
+galagos
+gallinaceous birds
+game birds
+games
+gannets
+ganoids
+gastropods
+gaurs
+gaviiform seabirds
+gazelles
+geckos
+gemsboks
+genets
+gerbils
+giant pandas
+giants
+gibbons
+giraffes
+gluttons
+gnus
+goat antelopes
+goats
+gobies
+goldfish
+goosefish
+gooses
+gorgonians
+gorillas
+grasshoppers
+great apes
+grebes
+greyhounds
+grizzlies
+groundhogs
+ground squirrels
+grouses
+grubs
+guanacos
+guinea fowls
+guinea pigs
+gulls
+guppies
+haddocks
+hamsters
+hares
+harnessed antelopes
+harts
+hawks
+hedge sparrows
+hens
+herbivores
+herons
+hill mynas
+hinnies
+hippopotamuses
+hogs
+homeotherms
+hominids
+homopterous insects
+homos
+honeybees
+hoopoes
+hornbills
+horses
+hounds
+howler monkeys
+hummingbirds
+hunting dogs
+hydras
+hydrozoans
+hyenas
+hymenopterous insects
+hyraxes
+ibexes
+ibises
+ichthyosaurs
+iguanids
+impalas
+insectivores
+insects
+invertebrates
+isopods
+jackals
+jackrabbits
+jacks
+jaguars
+jaguarundis
+jays
+jawless vertebrates
+jerboas
+kangaroos
+kiangs
+kids
+killer whales
+kingfishers
+kinkajous
+kite
+kittens
+kiwis
+koalas
+kookaburras
+krill
+kudus
+ladybugs
+lagomorphs
+lambs
+lamprey
+lancelets
+larids
+larvaceans
+larvas
+leafhoppers
+leech
+lemmings
+lemurs
+leopards
+lepidopterous insects
+leporids
+lesser apes
+limpets
+limpkins
+lions
+livestocks
+lizards
+lizas
+llamas
+lobsters
+locusts
+longhorns
+loons
+lories
+lorikeets
+louse
+lugworms
+lynxen
+macaques
+macaws
+maggots
+magpies
+malacostracan crustaceans
+male horses
+mallards
+mammals
+mammoths
+manatees
+mantas
+mantises
+mares
+marine animals
+marmosets
+marmots
+marsupials
+martens
+martins
+mastodons
+mayflies
+meadowlarks
+medusas
+meerkats
+metatherians
+millipedes
+minks
+minnows
+mites
+moles
+mollusks
+mongooses
+monkeys
+monotremes
+mosquitos
+moths
+mouflons
+mountain sheeps
+mouses
+mudskippers
+mules
+mullets
+musk oxen
+muskrats
+mussels
+mustangs
+musteline mammals
+mynas
+neandertal mans
+nematodes
+newts
+new world blackbirds
+new world goldfinch
+new world monkeys
+new world orioles
+new world vultures
+nilgais
+nuthatches
+nyalas
+nymphalids
+ocean sunfish
+ocelots
+octopods
+octopuses
+odd-toed ungulates
+odonates
+old world buffalos
+old world monkeys
+oligochaetes
+omnivores
+onagers
+opossums
+orangutans
+orthopterous insects
+oryxes
+oscines
+osprey
+ostriches
+otters
+owls
+oxen
+oysters
+pachyderms
+packrats
+pangolins
+parakeets
+parrots
+passerines
+peacocks
+peccaries
+pelagic birds
+pelecaniform seabirds
+pelicans
+penguins
+perch
+percoid fish
+periwinkles
+pests
+pets
+phalangers
+phasianids
+pheasants
+phoronids
+piciform birds
+pigeons
+piglets
+pikas
+pinniped mammals
+pipefish
+piranhas
+pit vipers
+placentals
+planarians
+plant louses
+platypuses
+plectognaths
+plovers
+podicipitiform seabirds
+pollinators
+polychaetes
+ponies
+poodles
+porcupines
+porpoises
+portuguese man of wars
+potoroos
+prawns
+predators
+prey
+primates
+proboscideans
+procyonids
+pronghorns
+prototherians
+ptarmigans
+pterosaurs
+puffins
+puppies
+pups
+pygmy chimpanzees
+pythons
+quails
+rabbit eared bandicoots
+rabbits
+raccoons
+racehorses
+raies
+rams
+ratels
+ratites
+rat kangaroos
+rats
+rattlesnakes
+ravens
+red deers
+reptiles
+rheas
+rhinoceroses
+roadrunners
+robins
+rodents
+roebucks
+roe deers
+rotifers
+rottweilers
+sables
+salamanders
+salmonids
+salmons
+salps
+sambars
+sassabies
+saurians
+scallops
+scavengers
+scombroids
+scorpaenoids
+scorpions
+sea anemones
+seabirds
+sea cows
+seals
+sea slugs
+seasnails
+sea turtles
+sea urchins
+serows
+sharks
+sheeps
+shepherd dogs
+shipworms
+shorebirds
+short horned grasshoppers
+shrews
+shrimps
+silkworms
+siphonophores
+skates
+skinks
+skunks
+sloths
+slugs
+snails
+snakes
+social insects
+soft finned fish
+songbirds
+sparrow hawks
+sparrows
+sphenisciform seabirds
+spiders
+spiny finned fish
+springboks
+squids
+squirrels
+stallions
+starfish
+starlings
+steenboks
+stingrays
+stoats
+sturgeons
+swallows
+swans
+swines
+swordfish
+tadpoles
+takins
+tapeworms
+tapirs
+tardigrades
+tarsiers
+tautog
+teleost fish
+termites
+terns
+terrapins
+thoroughbreds
+thrushs
+ticks
+tigers
+tinamous
+titmouse
+toothed whales
+tortoises
+toucans
+toy dogs
+trilobites
+trouts
+true frogs
+tuataras
+tunas
+tunicates
+turkeys
+turtles
+ungulates
+varmints
+vertebrates
+vicunas
+vipers
+viverrines
+voles
+vultures
+wading birds
+wallabies
+walruses
+warthogs
+wasps
+waterbucks
+water buffalos
+waterfowls
+water moccasins
+weasels
+whales
+whelks
+whippets
+whitings
+wild asses
+wild boars
+wildcats
+wild dogs
+wild goats
+wild sheeps
+wisents
+wolffish
+wolfs
+wolf spiders
+wombats
+woodlouse
+woodpeckers
+wood rabbits
+wood rats
+working dogs
+worlds
+worms
+wrasses
+wrens
+yaks
+yellowbelly marmots
+young mammals
+youngs
+zebras
+zebus
+zooplankton

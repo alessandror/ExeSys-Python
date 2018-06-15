@@ -1,0 +1,2348 @@
+financial economics
+jel classification
+finance review
+political economy
+summary statistic
+sample period
+quantitative analysis
+stock return
+market value
+dummy variable
+empirical result
+explanatory variable
+research insecurity price
+corporate finance
+market capitalization
+insecurity price
+cance level
+monetary economics
+classification code
+partial sell-offs
+common stock
+empirical investigation
+economic theory
+empirical test
+absolute value
+proof of proposition
+negative coefficient
+economic efficiency
+economic significance
+data set
+portfolio return
+positive coefficient
+expected value
+asset price
+positive relation
+university abstract
+alternative measure
+basis point
+cross-sectional variation
+economic dynamic
+operating margin
+estimated coefficient
+regression model
+empirical estimate
+negative relation
+industrial classification
+optimisation problem
+management buyout
+coefficient estimate
+asset pricing
+exchange commission
+excess return
+abnormal return
+return volatility
+marginal effect
+investment opportunity
+federal reserve bank
+share price
+covariance matrix estimator
+agency cost
+expected return
+market value of equity
+accounting research
+ceteris paribus
+market return
+significance level
+robustness test
+pricing model
+negative sign
+core business
+transaction cost
+firm value
+board of director
+matrix estimator
+cross-sectional regression
+financial intermediation
+variable of interest
+forum sample
+direct test
+stock return volatility
+success of acquisition
+price process
+asymmetric information
+market price
+announcement return
+trading volume
+investment decision
+economic research
+statistically significant
+parameter value
+risk-free rate
+accounting datum
+ols regression
+financial support
+pricing formula
+long-term debt
+robust standard error
+negative correlation
+bid-ask spread
+loss of generality
+LOG
+heteroskedasticity-consistent covariance matrix estimator
+percentage change
+stockholder gain
+risk premium
+private information
+market portfolio
+reserve bank
+model parameter
+managerial objective
+test statistic
+corporate control
+optimal financing policy
+financial economy
+probability distribution
+asset pricing model
+consistent covariance matrix
+model specification
+institutional investor
+pay-performance sensitivity
+public offering
+capital structure
+accounting measure
+endogeneity problem
+finance literature
+regression specification
+private transaction
+market liquidity
+equity-based compensation
+market index
+empirical proxy
+utility function
+book value of asset
+mutual fund
+ownership structure
+risk aversion
+voluntary restructuring
+time-series average
+hazard model
+market-to-book ratio
+standard industrial classification
+point estimate
+national bureau of economic research
+autocorrelation consistent covariance matrix
+book asset
+cash ows
+measure
+martingale measure
+distribution function
+financing policy
+asset return
+estimation result
+probit model
+functional form
+price change
+stochastic process
+information asymmetry
+anecdotal evidence
+fixed income
+identification strategy
+normal distribution
+stockholder wealth
+serial correlation
+row of table
+marginal cost
+growth opportunity
+positive sign
+credit default swap
+capital market
+risky asset
+statistical association
+standard deviation increase
+free cash flow
+compensation policy
+book-to-market ratio
+univariate analysis
+deviation increase
+untabulated result
+estimated parameter
+value-weighted index
+leverage ratio
+business administration
+liquidation value
+financial crisis
+credit risk
+pooled regression
+first-order condition
+behavioral finance
+maximization problem
+prior study
+incomplete market
+individual investor
+multivariate setting
+natural log
+standard industrial
+estimate system
+operating income
+partial derivative
+trading strategy
+trading activity
+marginal utility
+conventional level
+shareholder wealth
+moral hazard
+department of finance
+rst column
+asin equation
+news wire
+business cycle
+affiliated company
+equity holding
+block trade
+fund flow
+asset sale
+state variable
+percent level
+gas extraction
+probit regression
+statistical test
+estimation procedure
+slope coefficient
+uniform distribution
+cross-sectional relation
+multivariate analysis
+firm-year observation
+optimization problem
+one-standard-deviation increase
+prior finding
+emerging market
+time trend
+consistent estimate
+predictive power
+expected utility
+marginal product
+counterparty risk
+conditional expectation
+gross domestic product
+GDP
+alternative interpretation
+increasing function
+economic magnitude
+development expense
+bond price
+risk-neutral probability
+clearing condition
+financial policy
+adverse selection
+arbitrage opportunity
+absolute risk aversion
+holding period
+method of payment
+discount factor
+time-series regression
+equity return
+investment strategy
+riskless asset
+dividend yield
+instrumental variable
+paired comparison
+management fee
+individual stock
+time variation
+persistence parameter
+supplemental material
+occidental petroleum
+transaction datum
+block of share
+put-call parity
+technology bubble
+legal institution
+two-digit sic code
+option pricing
+conflict of interest
+market maker
+exchange listing
+federal reserve board
+discount rate
+private benefit
+empirical distribution
+implied volatility
+benchmark portfolio
+normality assumption
+managerial discretion
+public information
+frequency percent
+relative risk aversion
+time-series variation
+cumulative abnormal return
+CAR
+pricing implication
+fiscal year-end
+empirical implication
+behavioral bias
+external financing
+panel datum
+call option
+likelihood function
+excellent research assistance
+bank branch
+logit regression
+premium puzzle
+asset class
+univariate test
+confidence level
+informational asymmetry
+portfolio choice
+international money
+sale growth
+negative slope
+systematic difference
+maximum likelihood
+equity offering
+reserve board
+cost of capital
+operations research
+deposit insurance
+asset value
+trading behaviour
+option price
+estimation method
+credit crisis
+equity issuance
+investment opportunity set
+analyst coverage
+cross-sectional correlation
+CSC
+industrial organisation
+bank-firm relationship
+risk-return trade-off
+objective function
+lack of significance
+stock market return
+finance association meeting
+trading cost
+seller gain
+free parameter
+european call option
+data source
+personal taxi
+economic history
+constrained firm
+CSV
+financial distress
+interest expense
+leveraged recapitalization
+closed-form solution
+natural experiment
+investor behaviour
+benefit of control
+strike price
+predicted sign
+institutional ownership
+marginal benefit
+bargaining power
+career concern
+stock ownership
+bankruptcy filing
+microstructure effect
+basic specification
+optimal portfolio choice
+survivorship bias
+macroeconomic variable
+hostile takeover
+empirical prediction
+stock option
+information advantage
+informed trader
+automatic stay
+short-sale constraint
+financial development
+rational expectation
+positive association
+public company
+graduate school of business
+GSB
+unconditional probability
+diseconomies of scale
+underlying asset
+managerial behavior
+shareholder activism
+tax benefit
+rst-order autocorrelation
+ROA
+credit rating
+potential endogeneity
+predicted probability
+selling loser
+examination of junk-bond issuer
+mutual fund industry
+takeover target
+investment banker
+future earning
+maximum likelihood estimate
+bond yield
+leveraged buyout
+probability measure
+contracting party
+endogeneity concern
+ordinary differential equation
+future cash flow
+investment policy
+funding liquidity
+event window
+risk premia
+budget constraint
+inter-firm linkage
+system of equation
+panel of figure
+managerial incentive
+ceo tenure
+panel bare
+banking sector
+investor protection
+market participation
+takeover threat
+takeover activity
+european option
+market reaction
+theoretical prediction
+off-diagonal element
+correspondence address
+buying winner
+downward bias
+overidentifying restriction
+expectation operator
+college of business
+short-term debt
+STD
+log likelihood
+target shareholder
+positive probability
+FCF
+two-tailed test
+net present value
+NPV
+market price of risk
+equity issue
+analyst forecast
+sequence of event
+discontinued operation
+allocation decision
+intercept term
+moral hazard problem
+corporate financing
+role of bank
+event period
+ceo turnover
+changed overtime
+stylized fact
+first-stage regression
+cash holding
+conditional variance
+investment bank
+uniqueness of bankloans
+price reaction
+disclosure requirement
+behavioural bias
+strong incentive
+estimated slope
+calibration exercise
+stock price reaction
+CCM
+deviation of return
+method of moment
+MOM
+publicly traded
+takeover bid
+private firm
+earning forecast
+master file
+residual claimant
+applied corporate finance
+association meeting
+compensation datum
+estimation period
+external finance
+security return
+volatility model
+equity premium
+financial constraint
+diagonal element
+sign test
+limited liability
+western finance association
+WFA
+takeover defense
+operating cash flow
+panel regression
+portfolio weight
+deferred taxi
+fund industry
+order flow
+trading profit
+equity ownership
+growth stock
+press panel
+probabilistic prediction
+tax rate
+loan origination
+value stock
+cross-section of return
+agency conflict
+maturity date
+short selling
+reverse causality
+risk-bearing capacity
+experimental evidence
+conditional density
+momentum strategy
+maximum likelihood estimation
+frequency distribution
+dominant player
+organizational form
+public corporation
+binomial tree
+limited partnership
+term structure of interest rate
+organizational structure
+direct measure
+systematic risk
+default swap
+predictive ability
+logistic transformation
+equity stake
+share repurchase
+executive compensation
+pension fund
+governance mechanism
+comparative advantage
+income taxi
+regulated industry
+contingent claim
+state price
+likelihood estimation
+vector of parameter
+pricing error
+informed trading
+factor model
+diversified firm
+linear function
+testable prediction
+control group
+generalized method
+consistent estimator
+missing observation
+wealth transfer
+econometric technique
+debt issue
+vector of coefficient
+census bureau
+numerical integration
+portfolio holding
+identity matrix
+offer price
+entity
+abroad cross-section
+four-digit sic code
+managerial ownership
+predictive regression
+derivative security
+governance index
+adverse selection problem
+r&d spending
+stabilizing role
+legal protection
+envelope theorem
+trading pattern
+certainty equivalent
+benchmark case
+investment behaviour
+fiduciary duty
+first-order autocorrelation
+selection procedure
+price impact
+inefficient liquidation
+unbalanced panel
+fund return
+appropriable rent
+capital asset pricing model
+debt capacity
+odd-eighth quote
+index fund
+back-of-the-envelope calculation
+informational advantage
+diffusion coefficient
+percentage of share
+structural break
+rm-year observation
+payout ratio
+time-invariant heterogeneity
+banking relationship
+statistically insignificant
+logistic regression
+effective spread
+commercial bank
+sell order
+industrial production
+takeover attempt
+lead underwriter
+bin table
+equity fund
+liquid asset
+divisional rent-seeking
+three-factor model
+bank lending
+variance-covariance matrix
+coverage ratio
+sec regulation
+risk-neutral measure
+closed-end fund
+univariate comparison
+asset allocation
+short maturity
+dividend policy
+serial dependence
+optimal portfolio
+conditioning variable
+private placement
+prediction error
+robust t-statistics
+relationship lending
+decreasing function
+insider ownership
+contractual feature
+board composition
+insider trading
+long-run underperformance
+stark contrast
+security law
+costly search
+depreciation expense
+absence of arbitrage
+forecast error
+debt financing
+macroeconomic condition
+monetary fund
+long maturity
+institutional holding
+expense of shareholder
+source of fund
+domestic investor
+equity portfolio
+trade reporting
+average return
+trade size
+federal reserve
+constant elasticity
+depository receipt
+fixed asset
+conditional distribution
+distinguishing feature
+winner curse
+convertible debt
+overwhelming majority
+offer date
+hazard rate
+financing constraint
+post-recap period
+payout policy
+interquartile range
+target leverage ratio
+antitakeover amendment
+size quintile
+heteroskedasticity-consistent standard error
+expected payoff
+earning management
+sequential learning
+conglomerate merger
+manufacturing industry
+fraction of share
+pairwise correlation
+liquidity beta
+lending relationship
+bid-ask bounce
+noise trader
+proxy contest
+book leverage
+capital gain
+hazard problem
+controlling shareholder
+antitakeover charter amendment
+opportunistic behavior
+junk-bond issuer
+bond issuer
+informational content
+shareholder interest
+execution cost
+compensation package
+investment choice
+density function
+management turnover
+likelihood estimate
+realized volatility
+federal reserve system
+ratio of earnings
+ROE
+reverse lbo
+demand curve
+investor sentiment
+uninformed trader
+short horizon
+ownership concentration
+specification error
+seasoned equity offering
+percent of share
+payoff function
+retained earning
+share turnover
+investor responsibility research centre
+cross-sectional difference
+sum of square
+accounting standard
+compensation contract
+imperfect competition
+corporate bond
+hostile bid
+cash balance
+estimation error
+uninformed investor
+distributional assumption
+corporate debt
+idiosyncratic risk
+risk exposure
+junk bond issuer
+information acquisition
+default risk
+clinical study
+quarterly frequency
+reverse causation
+aversion coefficient
+r&d expenditure
+r&d intensity
+foreign competition
+top-management incentive
+reserve system
+rival firm
+closed-form expression
+credit quality
+illiquidity measure
+secured creditor
+cross-sectional standard deviation
+estimated coe
+elasticity of substitution
+direction of causality
+detailed derivation
+supply curve
+equity incentive
+statistical inference
+margin requirement
+quoted spread
+equity value
+momentum portfolio
+measurement interval
+managerial entrenchment
+borrowing power
+yield spread
+statistically significant relation
+mortgage crisis
+capital allocation
+corporate investment
+deviation change
+corporate policy
+yield curve
+regulatory constraint
+three-digit sic code
+credit event
+decile portfolio
+investment project
+british pound
+shareholder protection
+deposit insurance corporation
+growth option
+division of gain
+call provision
+judicial system
+diversification discount
+depository institution
+strategic behaviour
+standard deviation change
+adjusted r-square
+applied econometrics
+trading system
+price index
+ceo compensation
+international monetary fund
+corporate restructuring
+book-to-market quintile
+stochastic volatility
+action lawsuit
+backward induction
+mathematical statistic
+earning announcement
+industry concentration
+registration statement
+debt holder
+credit spread
+tax advantage
+regulatory restriction
+trend follower
+internal fund
+fixed cost
+hedging demand
+event-study methodology
+hedging strategy
+traded company
+consumer finance
+ownership stake
+external capital
+margin account
+forecast dispersion
+subprime mortgage crisis
+percentage ownership
+exercise price
+parameter vector
+asymptotic approximation
+bond issue
+r&d expense
+stock-picking talent
+relative performance evaluation
+estimation methodology
+equilibrium condition
+optimal allocation
+compensation committee
+econometric analysis
+business school abstract
+negative association
+sec rule
+selling pressure
+sample selection bias
+lack of transparency
+policy choice
+agency consideration
+committee member
+asset pricing test
+APT
+simultaneous equation
+peer group
+charter amendment
+industrial organization
+posterior belief
+banking industry
+responsibility research centre
+pricing test
+venture capital
+restrictive covenant
+holding company
+gas producer
+class action lawsuit
+liquidity risk
+pension plan
+sale announcement
+consumer durable
+random sample
+labour income
+national science foundation
+NSF
+retail investor
+option value
+approximate solution
+entire surplus
+basic premise
+governance quality
+conditional heteroskedasticity
+tax treatment
+government bond
+target share
+management association
+development expenditure
+corporate diversification
+acquiring firm
+hypothesis of equality
+stochastic differential equation
+industry-adjusted change
+corporate focus
+prevailing view
+conditional volatility
+buy order
+bankruptcy court
+cash dividend
+business segment
+methodology
+partial differential equation
+absolute difference
+policy change
+cross-sectional determinant
+financial integration
+short interest
+earning stream
+liquidity shock
+cross-section of stock
+pricing kernel
+diversification strategy
+political influence
+influence of outlier
+vertical integration
+cross-country analysis
+strict convexity
+production technology
+rating category
+confidence band
+account receivable
+contractual arrangement
+lagged asset
+sale of asset
+adjustment cost
+downward pressure
+hedge portfolio
+disciplining device
+target leverage
+bellman equation
+quote midpoint
+compensation plan
+appointment of outsider
+bankruptcy cost
+mean-variance optimization
+risk measure
+value-weighted portfolio
+firm-level control
+two-step estimator
+internet bubble
+commercial mortgage
+control benefit
+underinvestment problem
+tax status
+moment condition
+feedback effect
+coordination problem
+revised version
+convex combination
+load fee
+principal component
+dynamic programming
+rent extraction
+manufacturing sector
+fire sale
+cross-section of fund
+speed of convergence
+regularity condition
+profit margin
+bonding hypothesis
+merger wave
+theoretical work
+cross-border merger
+loan contract
+weighting matrix
+stochastic discount factor
+bureau of economic analysis
+BEA
+quadratic utility
+wealth change
+intertemporal substitution
+short sale
+potential conflict
+federal deposit insurance corporation
+FDIC
+speculative bubble
+falsification test
+higher-order moment
+index option
+labour force
+owned subsidiary
+exchange economy
+acquisition announcement
+option plan
+income shock
+trade credit
+expropriation of minority shareholder
+depositary receipt
+multiple bidder
+government printing
+deviation of forecast
+analytical tractability
+future price
+financing choice
+debt policy
+bureau of economic research
+front-end load
+aggregate demand
+wholly owned subsidiary
+hedge ratio
+future profitability
+bond rating
+security issuance
+concentrated ownership
+state-owned enterprise
+stock-based compensation
+SBC
+sampling procedure
+residual variance
+underwriting relationship
+dispersion of belief
+equity index
+expected loss
+decile ranking
+propensity score
+baseline hazard
+negative information
+private credit
+look-ahead bias
+publicly traded company
+local economy
+portfolio diversification
+sorting procedure
+first-order serial correlation
+sensitivity check
+distress date
+future consumption
+intertemporal elasticity
+future growth
+time-series property
+pay-for-performance sensitivity
+analyst forecast dispersion
+log of sale
+liquidity provision
+common law
+numerical simulation
+selective disclosure
+hedgefund database
+stock repurchase
+credit availability
+bounded rationality
+shark repellent
+default probability
+macroeconomic fluctuation
+share volume
+upper quartile
+bootstrap procedure
+simulation evidence
+first-differenced residual
+social psychology
+risk-based explanation
+loss aversion
+order imbalance
+currency derivative
+risk-neutral dynamic
+liquidity measure
+lag length
+sampling frequency
+takeover contest
+optimal capital structure
+underwriting fee
+cash position
+bargaining position
+regulatory environment
+vector autoregression
+demand shock
+qualitative feature
+average level
+optimal portfolio weight
+corporate insider
+conditional covariance
+industrial classification code
+ICC
+logarithmic transformation
+speed of adjustment
+jump component
+principal repayment
+equilibrium restriction
+equity holder
+acquisition activity
+pricing theory
+coupon payment
+merger announcement
+public debt
+cash compensation
+self-selection bias
+leverage adjustment
+loan application
+dividend ratio
+operating loss
+standard industrial classification code
+bond return
+oil shock
+martingale method
+econometric society
+horizontal merger
+squared residual
+tax-loss selling
+distribution of return
+multiple geographic segment
+limit theorem
+spillover effect
+dividend restriction
+bank debt
+security analyst
+brokerage commission
+adverse selection component
+asset growth
+empirical measure
+strong buy
+allocation rule
+fama-french factor
+bubble period
+supply flexibility
+forecasting power
+earning growth
+incremental information
+compensation scheme
+equivalent martingale measure
+EMM
+industry-adjusted roa
+taxable income
+market power
+endogeneity bias
+western finance association meeting
+demographic variable
+expectation hypothesis
+takeover announcement
+zero-coupon bond
+investment style
+liquidity increase
+subordinated debt
+expense ratio
+ease of exposition
+measure of liquidity
+implicit contract
+sell-side analyst
+macroeconomic news
+currency crisis
+flow of fund
+direct cost
+antitrust deterrence
+time-series behaviour
+TSB
+analytic derivation
+bankruptcy announcement
+dividend growth
+class-action lawsuit
+opportunity cost
+capitalist certification
+promised payment
+asian crisis
+resolution of uncertainty
+loan pricing corporation
+insead abstract
+optimality condition
+difference of opinion
+sample average
+anti-takeover provision
+emerging economy
+precautionary saving motive
+combination of model
+COM
+subprime mortgage
+debt issuance
+aggregate consumption
+intraday analysis
+actual earning
+floor broker
+leveraged segment
+indirect cost
+term premium
+bill rate
+discretionary accrual
+airline industry
+expected profit
+voluntary recapitalization
+supervision of bank
+bank finance
+relief investigation
+stochastic interest rate
+prior evidence
+management change
+integrated environment
+numerical method
+consumption growth
+pro rata
+adjustment phenomenon
+scale economy
+syndicated loan
+sandwich estimator
+finance-growth nexus
+one-standard deviation increase
+imperfect information
+violation of priority
+import relief investigation
+taxation of dividend
+asymptotic distribution
+unconstrained firm
+cooperative agreement
+short seller
+power utility
+convertible bond
+numerical computation
+generated regressor
+indirect inference
+majority owner-managers
+adverse selection cost
+defaultable bond
+scatter plot
+wealth gain
+debt contract
+downward shift
+multifactor explanation
+optimal policy
+bank-based system
+compatibility constraint
+variance decomposition
+option exercise
+flow problem
+offer announcement
+legislative proposal
+petroleum refining
+estimation technique
+certi cates
+swap rate
+exclusion restriction
+reference arrow
+bankruptcy code
+small-sample bias
+asset pricing theory
+investment tax credit
+trading commission
+indian business group
+temporary misvaluations
+term loan
+group
+international cross-listing
+ICL
+bootstrap simulation
+ownership share
+merging firm
+savings behaviour
+labor income
+economic shock
+industry portfolio
+government ownership
+degree of moneyness
+compensation structure
+growth rate
+chief executive officer
+CEO
+bank loan
+civil law
+market share
+local currency
+venture capitalist
+social welfare
+foreign investor
+tax revenue
+board member
+domestic product
+foreign currency
+economics
+finance
+sample
+equity
+investor
+asin
+cash
+bias
+trading
+t-statistics
+benefit
+volatility
+insecurity
+shareholder
+debt
+differential
+leverage
+profit
+liquidity
+value-weighted
+p-values
+outlier
+dividend
+uncertainty
+taxi
+maturity
+banking
+risk-free
+insider
+selling
+disclosure
+slope
+econometrics
+persistence
+takeover
+trader
+intermediation
+heterogeneity
+executive
+service
+bankruptcy
+economist
+borrowing
+hazard
+testis
+substitute
+anomaly
+diversification
+extra
+dispersion
+arbitrage
+turmoil
+liquidation
+innovation
+r-statistics
+manufacturing
+saving
+decile
+trade-off
+stockholder
+inequality
+inability
+cutoff
+momentum
+issuer
+substitution
+banker
+outsider
+contracting
+underwriter
+tradeoff
+causality
+skewness
+investing
+willingness
+propensity
+predictability
+regulator
+striking
+doubt
+lawyer
+maximization
+fama-french
+voluntary
+inflow
+inefficiency
+hypothetical
+rand
+one-month
+macroeconomics
+surplus
+pension
+voting
+currency
+regularity
+bidder
+industry-adjusted
+elasticity
+desire
+market-adjusted
+forecasting
+intermediary
+exit
+hedging
+risk-neutral
+borrower
+brokerage
+subsidiary
+shareholding
+buyout
+clause
+schedule
+reliance
+subgroup
+hedgefund
+completeness
+riskiness
+negotiation
+firm-years
+covenant
+risk-averse
+overlapping
+creditor
+prevalence
+endowment
+arbitrageur
+contest
+surprise
+lawsuit
+privatisation
+disagreement
+critique
+amendment
+meltdown
+tractability
+transparency
+venture
+divestiture
+risk-adjusted
+repurchase
+depositor
+concession
+three-month
+multicollinearity
+avoidance
+depository
+receipt
+fund
+justification
+comparing
+commodity
+sentiment
+barrier
+loser
+externality
+long-horizon
+intent
+downgrade
+bylaw
+litigation
+downside
+shortcoming
+incorporation
+t-values
+godown
+deflator
+overreaction
+acquiring
+expropriation
+imperfection
+out-of-sample
+reorganization
+self-selection
+canthus
+calibration
+large-sample
+conglomerate
+expiration
+six-month
+uniqueness
+changeover
+certainty
+market-wide
+competitiveness
+synergy
+oversight
+bidding
+raider
+entrepreneur
+convertible
+entrenchment
+sale
+progress
+spin-off
+taxation
+tangibility
+one-fourth
+gamble
+rationality
+deregulation
+macro
+glamour
+contention
+compliance
+proximity
+debtor
+advisory
+accordance
+exploration
+mandate
+communication
+amortization
+clearing
+simplification
+size-matched
+lockup
+market-based
+monopoly
+deterrence
+dilution
+ticker
+selectivity
+critic
+raising
+attorney
+martingale
+steel
+globalization
+claimant
+anatomy
+rolling
+risk-aversion
+chairman
+toehold
+stockholding
+interplay
+contagion
+sub-sample
+buyback
+spillover
+luck
+attractiveness
+capitalist
+dividend-paying
+contradiction
+write-off
+dollar-denominated
+industry-specific
+openness
+insignificance
+short-selling
+interpolation
+selloff
+hurdle
+venue
+preponderance
+speculator
+scandal
+debt-to-equity
+syndicate
+audit
+platinum
+downturn
+stabilization
+bootstrap
+bondholder
+minimization
+retention
+seta
+multiplier
+economy-wide
+pact
+inconsistency
+impediment
+arbor
+controversy
+earnings
+continuum
+commonality
+shield
+repayment
+rumor
+mean-reversion
+shortfall
+rent-seeking
+apparel
+comparability
+liberalization
+fundus
+auditor
+capitalism
+activism
+plaintiff
+collusion
+industry-wide
+microeconomics
+obstacle
+affiliate
+district
+remedy
+quart
+anti-director
+adviser
+globalisation
+interdependence
+information-based
+timeline
+pre-event
+differentiation
+risk-taking
+value-maximizing
+eros
+cash-rich
+goodness-of-fit
+switching
+redemption
+beholder
+standpoint
+liquidity-based
+buildup
+reserve
+financier
+ex-dividend
+free-rider
+outlay
+conservatism
+tranche
+simultaneity
+usefulness
+extrapolation
+optimism
+substituting
+publicity
+value-increasing
+one-quarter
+econometrician
+homogeneity
+prestige
+filtration
+reciprocal
+complementarity
+allegation
+bureaucrat
+monopolist
+efficacy
+no-arbitrage
+markup
+leakage
+resignation
+ingrowth
+breakup
+intra-industry
+quantum
+seasonal
+rental
+equity-based
+sociology
+imbalance
+ruling
+discussant
+dissemination
+statute
+standardization
+eck-graves
+tobacco
+seniority
+outflow
+fiduciary
+requisite
+byproduct
+reexamination
+causation
+breach
+consumption-based
+debenture
+histogram
+insolvency
+crime
+cash-constrained
+activist
+taxpayer
+pre-recap
+symmetry
+jurisdiction
+short-horizon
+irrationality
+mistake
+fate
+foreigner
+telecommunication
+shortage
+judiciary
+deterrent
+parsimony
+overconfidence
+paucity
+demise
+oligopoly
+purchaser
+accounting-based
+opportunism
+delegation
+merging
+elastic
+over-the-counter
+overvaluation
+size-adjusted
+pessimism
+incubation
+inception
+linearity
+finite-sample
+low-cost
+junk
+perquisite
+viability
+z-statistics
+mathematics
+optimist
+myopia
+depositary
+unavailability
+destruction
+one-eighth
+placebo
+entertainment
+impossibility
+specialization
+subsidy
+euro
+government-owned
+supplement
+utility-based
+governing
+refusal
+payer
+reconciliation
+substitutability
+reluctance
+free-riding
+recourse
+value
+packaging
+compatibility
+transaction-cost
+temptation
+utilization
+activity
+devaluation
+discreteness
+deficiency
+reorganisation
+compounding
+all-equity
+off-diagonal
+predation
+value-relevant
+responsiveness
+discontinuity
+desirability
+offeror
+hindsight
+fragility
+cutback
+imposition
+retailer
+irrelevance
+broker-dealer
+revaluation
+single-segment
+greenmail
+exuberance
+perpetuity
+scarcity
+remuneration
+cash-adjusted
+appraisal
+foresight
+attenuation
+administrator
+payable
+paradox
+coalition
+longer-maturity
+biotechnology
+anti-takeover
+mismatch
+invariable
+debt-equity
+size-related
+odd-eighth
+assize
+accountant
+small-capitalization
+non-cash
+rm-commitment
+privilege
+neutrality
+speaking
+self-interest
+inflation-adjusted
+randomness
+coincidence
+maximum-likelihood
+appetite
+interdependency
+insensitivity
+debt-to-asset
+risk-based
+bankrupt
+diversion
+appropriateness
+windfall
+breakout
+non-market
+imprecision
+constituency
+inducement
+commentary
+setback
+impetus
+shark
+uniformity
+short-maturity
+comeback
+undertaking
+partner
+trustee
+undercurrent
+longer-horizon
+testimony
+modernization
+panic
+worsening
+rigidity
+requiem
+understatement
+invariance
+duplication
+two-tier
+two-thirds
+credence
+receivables
+proportionality
+progression
+overestimate
+long-maturity
+underdevelopment
+impartiality
+millionaire
+millennium
+rivalry
+overestimation
+absolute advantage
+adaptive expectation
+advertising
+agricultural policy
+agriculture
+aid
+altruism
+amortisation
+animal spirit
+antitrust
+appreciation
+arbitrage pricing theory
+asset
+asymmetric shock
+auction
+austrian economics
+autarky
+average
+backwardation
+balance of payment
+balanced budget
+bank
+barriers to entry (or exit)
+barter
+bear
+behavioural economics
+beta
+big mac index
+black economy
+black-scholes
+bond
+boom and bust
+brand
+bretton wood
+bubble
+budget
+bull
+business confidence
+buyer's market
+cannibalise
+capacity
+capital
+capital adequacy ratio
+capital control
+capital flight
+capital intensive
+capm
+cartel
+catch-up effect
+central bank
+charity
+chicago school
+classical dichotomy
+classical economics
+closed economy
+coase theorem
+collateral
+command economy
+commoditisation
+common good
+communism
+competition
+competitive advantage
+complementary good
+compound interest
+concentration
+conditionality
+consumer confidence
+consumer price
+consumer surplus
+consumption
+contestable market
+convergence
+corruption
+cost-benefit analysis
+creative destruction
+credit
+credit creation
+credit crunch
+crony capitalism
+crowding out
+currency board
+currency peg
+current account
+deadweight cost/loss
+debt forgiveness
+debt-equity ratio
+default
+deficit
+deflation
+demand
+demographic
+depreciation
+depression
+derivative
+developing country
+development economics
+diminishing return
+direct taxation
+discounted cashflow
+disequilibrium
+disinflation
+disintermediation
+division of labour
+dollarisation
+dominant firm
+dumping
+economic and monetary union
+economic indicator
+economic man
+economic rent
+economic sanction
+economies of scale
+effective exchange rate
+efficiency
+efficiency wage
+efficient market hypothesis
+endogenous
+engel's law
+enron
+enterprise
+environmental economics
+equilibrium
+equity risk premium
+euro zone
+eurodollar
+european central bank
+european union
+evolutionary economics
+exchange control
+exchange rate
+exogenous
+expectation
+expenditure tax
+export credit
+export
+factor cost
+factors of production
+factory price
+fair trade
+fdi
+financial centre
+financial instrument
+financial intermediary
+financial market
+financial system
+fine tuning
+firm
+first-mover advantage
+fiscal drag
+fiscal neutrality
+fiscal policy
+flotation
+foreign direct investment
+forward contract
+free lunch
+free riding
+free trade
+frictional unemployment
+friedman milton
+full employment
+fungible
+future
+game theory
+gatt
+gdp
+gearing
+general agreement on tariffs and trade
+general equilibrium
+generational accounting
+giffen good
+gilt
+gini coefficient
+global public good
+gnp
+gold
+gold standard
+golden rule
+government
+government debt
+government expenditure
+government revenue
+gresham's law
+gross national product
+growth
+hard currency
+hawala
+hedge
+hedge fund
+herfindahl-hirschman index
+homo economicus
+horizontal equity
+horizontal integration
+hot money
+house price
+human capital
+human development index
+hyper-inflation
+hypothecation
+hysteresis
+ilo
+imf
+import
+income
+income effect
+income tax
+incumbent advantage
+index number
+indexation
+indifference curve
+indirect taxation
+inelastic
+inferior good
+inflation
+inflation target
+information
+infrastructure
+institutional economics
+insurance
+intangible asset
+intellectual capital
+interest
+interest rate
+international aid
+international labour organisation
+international trade
+intervention
+investment
+invisible hand
+invisible trade
+inward investment
+j-curve
+job search
+joint supply
+keynesian
+kleptocracy
+kondratieff wave
+labour
+labour intensive
+labour market flexibility
+labour theory of value
+laffer curve
+lagging indicator
+laissez-faire
+land
+land tax
+law and economics
+lbo
+leading indicator
+lender of last resort
+leveraged buy-out
+liberal economics
+liberalisation
+libor
+life
+life-cycle hypothesis
+liquidity preference
+liquidity trap
+lock-in
+long run
+lump of labour fallacy
+lump-sum tax
+luxury
+macroeconomic policy
+marginal
+market capitalisation
+market failure
+market force
+marshall plan
+mean
+mean reversion
+median
+medium term
+menu cost
+mercantilism
+mergers and acquisition
+minimum wage
+misery index
+mixed economy
+mobility
+mode
+modelling
+modern portfolio theory
+monetarism
+monetary neutrality
+monetary policy
+money
+money illusion
+money market
+money supply
+monopolistic competition
+monopsony
+most-favoured nation
+nafta
+nairu
+nash equilibrium
+nation building
+national debt
+national income
+nationalisation
+natural monopoly
+natural rate of unemployment
+negative income tax
+neo-classical economics
+network effect
+new economy
+new growth theory
+new trade theory
+ngo
+nobel prize for economics
+nominal value
+non-price competition
+normal good
+normative economics
+npv
+null hypothesis
+oecd
+offshore
+okun's law
+opec
+open economy
+open-market operation
+optimal currency area
+optimum
+option
+output
+output gap
+outsourcing
+outward investment
+over the counter
+overheating
+overshooting
+pareto efficiency
+paris club
+patent
+path dependence
+peak pricing
+percentage point
+percentile
+perfect competition
+permanent income hypothesis
+phillips curve
+pigou effect
+plaza accord
+population
+positional good
+positive economics
+poverty
+poverty trap
+precautionary motive
+predatory pricing
+preference
+present value
+price
+price discrimination
+price elasticity
+price mechanism
+price regulation
+price/earnings ratio
+principal-agent theory
+prisoners' dilemma
+private equity
+probability
+producer price
+producer surplus
+production function
+productivity
+profit maximisation
+progressive taxation
+property right
+property
+prospect theory
+protectionism
+public good
+public spending
+public utility
+public-private
+purchasing power parity
+q theory
+quantity theory of money
+quartile
+queueing
+quota
+r squared
+random walk
+rate of return
+rate of return regulation
+rating
+rationing
+real balance effect
+real exchange rate
+real interest rate
+real options theory
+real term
+recession
+reciprocity
+redlining
+reflation
+regional policy
+regression analysis
+regressive tax
+regulation
+regulatory arbitrage
+regulatory capture
+regulatory failure
+regulatory risk
+relative income hypothesis
+rent
+replacement cost
+replacement rate
+repo
+required return
+rescheduling
+reservation wage
+reserve currency
+reserve ratio
+reserve requirement
+residual risk
+restrictive practice
+return
+revealed preference
+ricardian equivalence
+risk
+risk averse
+risk management
+risk neutral
+risk seeking
+safe harbour
+satisficing
+say's law
+scalability
+scenario analysis
+search cost
+seasonally adjusted
+second-best theory
+secondary market
+security
+securitisation
+seignorage
+seller's market
+sequencing
+shadow price
+shareholder value
+share
+sharpe ratio
+shock
+short-termism
+signalling
+simple interest
+social benefits/costs
+social capital
+social market
+socialism
+soft currency
+soft dollar
+soft loan
+sovereign risk
+speculation
+speculative motive
+spot price
+spread
+stabilisation
+stability and growth pact
+stagflation
+stagnation
+stakeholder
+standard deviation
+standard error
+statistical significance
+sterilised intervention
+sticky price
+stock
+stress-testing
+structural adjustment
+structural unemployment
+substitute good
+substitution effect
+sunk cost
+supply
+supply-side policy
+sustainable growth
+swap
+systemic risk
+tangible asset
+tariff
+tax arbitrage
+tax avoidance
+tax base
+tax burden
+tax competition
+tax efficient
+tax evasion
+tax haven
+tax incidence
+technical progress
+terms of trade
+third way
+tick
+tiger economy
+time series
+time value of money
+total return
+trade
+trade area
+trade cycle
+trade deficit/surplus
+trade union
+trade-weighted exchange rate
+tragedy of the common
+transfer pricing
+transfer
+transition economy
+transmission mechanism
+treasury bill
+trough
+trust
+underground economy
+unemployment
+unemployment trap
+union
+usury
+utility
+value added
+value at risk
+variable cost
+velocity of circulation
+vertical equity
+visible trade
+voluntary unemployment
+wage drift
+wage
+wealth effect
+wealth tax
+weightless economy
+welfare
+welfare economics
+welfare to work
+windfall gain
+windfall profit
+winner-takes-all market
+withholding tax
+world bank
+world trade organisation
+x-efficiency
+yield
+yield gap
+zero-sum game
+ratio
+economy
+agency
+conflict
+account

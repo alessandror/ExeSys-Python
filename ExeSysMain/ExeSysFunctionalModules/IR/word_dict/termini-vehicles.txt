@@ -1,0 +1,117 @@
+4wds
+aeroplanes
+aircraft
+airliner
+airplane
+airship
+ambulance
+apcs
+automobiles
+balloons
+barges
+bicycle
+bikes
+blimps
+boat
+bombers
+buggy
+bulldozers
+bus
+cabs
+campers
+caravans
+car
+carriages
+carts
+chariots
+choppers
+coaches
+convertibles
+coupes
+cycles
+dirigibles
+dirt bikes
+dozers
+drays
+dumpers
+electrics
+ferries
+fire engine
+fire truck
+forklifts
+four wheelers
+gliders
+go carts
+go karts
+golf carts
+half tracks
+handcarts
+hearses
+helicopters
+houseboats
+hovercraft
+hovercrafts
+humvees
+jeeps
+jets
+kayaks
+landrovers
+limousines
+locomotives
+lorry
+minivans
+missiles
+mopeds
+motorbikes
+motorboats
+motorcars
+motorcycle
+motor homes
+off roaders
+pedicabs
+pick up
+pickup
+plane
+powerboats
+rickshaws
+roadsters
+rockets
+rv
+scooter
+scooters
+scramblers
+seaplanes
+sedans
+semis
+ships
+skateboards
+sleds
+snowmobiles
+snowplows
+spacecraft
+sports utilities
+steamboats
+streetcars
+strollers
+submarines
+suvs
+tanker
+tanks
+taxicabs
+taxi
+tippers
+tractors
+tractor trailers
+trailers
+trams
+tricycles
+trolley
+truck
+tug boats
+tugs
+vans
+vessels
+wagons
+watercraft
+wheelbarrows
+yachts

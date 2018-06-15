@@ -1,0 +1,554 @@
+acacias
+achilleas
+aconites
+african violets
+agapanthus
+agaves
+ailanthus
+air plants
+alders
+alfalfas
+algas
+allamandas
+alliaceous plants
+aloes
+alstroemerias
+althea
+alyssums
+amaranths
+amaryllis
+anemones
+angelicas
+angiospermous trees
+angiosperms
+annuals
+anthuriums
+apples
+apple trees
+apricots
+aquatic plants
+arborvitaes
+arnicas
+arrowroots
+artemisias
+artichokes
+arums
+ash
+asparaguses
+aspens
+asters
+astilbes
+avocados
+azaleas
+bamboos
+bananas
+banksias
+barberries
+barleys
+basils
+beans
+beech
+beetroots
+beets
+begonias
+belladonnas
+bellworts
+biennials
+bilberries
+bindweeds
+birches
+bitterroots
+bittersweets
+blackberries
+blackthorns
+bladderworts
+bloodroots
+blueberries
+bonsais
+borages
+bougainvilleas
+bourtrees
+boxes
+brackens
+bramble bushes
+brambles
+breadfruits
+broccolis
+bromes
+brooms
+buckthorns
+buckwheats
+bulbous plants
+burdocks
+buttercups
+butterfly bushes
+butterworts
+cabbages
+cacaos
+cactuses
+caladiums
+calamuses
+calendulas
+camass
+camellias
+cannabis
+cannas
+cantaloupes
+capsicums
+caraway
+cardamoms
+cardoons
+carnations
+carnivorous plants
+carrots
+cascara buckthorns
+cashews
+cassavas
+casuarinas
+catmints
+cat's tails
+cattails
+cauliflowers
+cedars
+celeries
+centaury
+cereals
+chamomiles
+chards
+cherries
+chickpeas
+chickweeds
+chicories
+chives
+cholla
+chrysanthemums
+cinerarias
+cinnamons
+citruses
+clematis
+climbers
+cloudberries
+clovers
+coconuts
+coffees
+coleus
+collards
+columbines
+comfrey
+composites
+coneflowers
+conifers
+cordgrasses
+coreopsis
+corianders
+corns
+cosmos
+cotoneasters
+cottons
+cottonwoods
+cowberries
+cowpeas
+cowslips
+crab apples
+crabgrasses
+cranberries
+cranesbills
+cresses
+crocuses
+crops
+croton
+crowberries
+crucifers
+cryptocorynes
+cucumbers
+cumins
+currants
+custard apples
+cycads
+cyclamens
+cypresses
+daffodils
+dahlias
+daisies
+dandelions
+daphne
+day lilies
+delphiniums
+desert plants
+diatoms
+dicots
+dills
+docks
+dodders
+dogbanes
+dog grasses
+dogwoods
+downy bromes
+dracaenas
+duckweeds
+eelgrasses
+eggplants
+elders
+elms
+entities
+ericas
+erythroxylon cocas
+eucalyptus
+evergreens
+fan palms
+fennels
+fenugreek
+fern allies
+ferns
+fescues
+fig marigolds
+figs
+fig trees
+fireweeds
+firs
+flax
+fleaworts
+florist's chrysanthemum
+flowering raspberries
+flowers
+forget me nots
+forsythias
+foxgloves
+frangipanis
+frogbit
+fruit trees
+fuchsias
+galax
+gardenias
+garlics
+gazania
+gentians
+geraniums
+gingers
+ginkgos
+ginsengs
+gladiolus
+glassworts
+gloxinias
+goldenrods
+goldenseals
+gooseberries
+goosefoots
+gorses
+gourds
+grains
+gramineous plants
+grapes
+grasses
+greasewoods
+grevillea
+groundnuts
+guars
+guavas
+gum trees
+gymnospermous trees
+gymnosperms
+hackberries
+hawthorns
+hazelnuts
+hazels
+heathers
+heaths
+helianthemums
+hellebores
+hemlocks
+henbanes
+herbs
+hibiscus
+hickories
+hollies
+honeysuckles
+hornworts
+horseradishes
+horsetails
+houseplants
+hoyas
+huckleberries
+hyacinths
+hydrangeas
+hydrilla
+ice plants
+indigos
+iridaceous plants
+irises
+ivies
+jack in the pulpits
+jasmines
+jimsonweeds
+jonquils
+juneberries
+kales
+kenaf
+knapweeds
+kudzus
+lamb's quarters
+lantana
+larkspurs
+laurels
+lavenders
+leeks
+legumes
+lemongrasses
+lemons
+lentils
+lettuces
+lianas
+licorices
+lilacs
+liliaceous plants
+lilies
+lily of the valley
+limes
+ling
+living things
+lobelias
+locoweeds
+lotus
+love grasses
+lupines
+macadamias
+madders
+madderwort
+magnolias
+maguey
+mallows
+mandarins
+mandrakes
+mangos
+mangroves
+manzanitas
+maples
+marantas
+marigolds
+marijuanas
+marrows
+marsh plants
+matchweeds
+medics
+melons
+mescals
+mesquites
+microorganisms
+milkweeds
+millets
+mints
+mistflowers
+monardas
+monkshoods
+monsteras
+morning glories
+mulberries
+mulleins
+mustards
+myrtles
+narcissus
+nasturtiums
+nectarines
+neems
+nettles
+nightshades
+nut trees
+oaks
+oats
+objects
+okras
+oleanders
+olives
+olive trees
+onions
+oranges
+orchids
+oreganos
+organisms
+origanums
+ornamentals
+ostrich ferns
+oxalis
+pachysandras
+palmettos
+palms
+panic grasses
+pansies
+papayas
+papyrus
+parsleys
+parsnips
+passionflowers
+peaches
+peanuts
+pears
+peas
+pea trees
+pecans
+pennyroyals
+peonies
+peperomias
+peppermints
+peppers
+perennials
+periwinkles
+petunias
+philodendrons
+phloxes
+physical entities
+phytoplankton
+pickerelweeds
+pineapples
+pines
+pinks
+pinons
+plane trees
+plantains
+plants
+plumbagos
+poinsettias
+poisonous plants
+pokeweeds
+polyanthus
+pomegranates
+pondweeds
+poplars
+poppies
+potatoes
+pothoses
+primroses
+privets
+proteas
+protoctists
+pteridophytes
+pumpkins
+pyracanthas
+quinces
+rabbitweeds
+radish plants
+radishes
+ragworts
+ramps
+rapes
+raspberries
+rattans
+redbuds
+reeds
+refineries
+retem
+rhododendrons
+rhubarbs
+rices
+rockets
+rockroses
+rosemaries
+roses
+rues
+rush
+ryes
+safflowers
+sagebrushes
+sages
+saguaros
+sainfoins
+salals
+saltbushes
+saltworts
+sassafrass
+saxifrages
+sedges
+sedums
+seedlings
+sennas
+sesames
+shellflowers
+shrubs
+silver wattles
+sisals
+smoke trees
+snapdragons
+snowberries
+soapworts
+soies
+sorghums
+soursops
+spearmints
+spermatophytes
+spinaches
+spurges
+squashes
+stocks
+stonecrops
+strawberries
+strawflowers
+subshrubs
+succulents
+sugar beets
+sugarcanes
+sumacs
+summer squashes
+sundews
+sunflowers
+sweet melons
+switch grasses
+tamarisks
+tangerines
+taros
+teaks
+teas
+teff
+thistles
+thorn apples
+thrifts
+thymes
+tis
+tobaccos
+tomatoes
+trees
+trilliums
+true laurels
+true peppers
+tulips
+tumbleweeds
+turmerics
+turnip plants
+turnips
+valerians
+vanillas
+vascular plants
+vegetables
+verbenas
+vetch
+vines
+violas
+violets
+wallflowers
+walnuts
+water chestnuts
+watercresses
+water lilies
+watermelons
+water shamrocks
+water shields
+wattles
+weeds
+wheatgrasses
+wheats
+white hellebores
+wholes
+wildflowers
+wild hyacinths
+willowherbs
+willows
+wintergreens
+wisterias
+woads
+wood anemones
+woody plants
+wormwoods
+yams
+yarrows
+yews
+yuccas
+zinnias
+zucchinis

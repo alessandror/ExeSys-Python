@@ -1,0 +1,281 @@
+capsid
+nodaviridae
+oncolytic virus
+provirus
+reassortant virus
+viroid
+helper virus
+torque teno virus
+simian virus 40
+jc virus
+bk virus
+white spot syndrome virus 1
+begomovirus
+maize streak virus
+nucleopolyhedrovirus
+granulovirus
+ascoviridae
+densovirus
+parvovirus b19
+aleutian mink disease virus
+bocavirus
+dependovirus
+mink enteritis virus
+minute virus of mouse
+h-1 parvovirus
+orthohepadnavirus
+hepatitis b virus
+adenovirus
+atadenovirus
+fowl adenovirus a
+siadenovirus
+entomopoxvirinae
+myxoma virus
+fibroma virus
+yaba monkey tumor virus
+pseudocowpox virus
+orf virus
+suipoxvirus
+molluscum contagiosum virus
+lumpy skin disease virus
+fowlpox virus
+canarypox virus
+vaccinia virus
+ectromelia virus
+cowpox virus
+monkeypox virus
+variola virus
+polydnaviridae
+nanovirus
+mupapillomavirus
+betapapillomavirus
+gammapapillomavirus
+cottontail rabbit papillomavirus
+lambdapapillomavirus
+human papillomavirus
+human papillomavirus 18
+human papillomavirus 16
+human papillomavirus 11
+bovine papillomavirus 1
+bovine papillomavirus 4
+phycodnaviridae
+circovirus
+chicken anemia virus
+african swine fever virus
+iridovirus
+ranavirus
+caulimovirus
+tungrovirus
+badnavirus
+simplexvirus
+herpesvirus
+herpesvirus 3
+herpesvirus 2
+herpesvirus 5
+herpesvirus 4
+herpesvirus 1
+ictalurivirus
+herpesvirus 7
+herpesvirus 6
+muromegalovirus
+cytomegalovirus
+herpesvirus 8
+lymphocryptovirus
+arbovirus
+rubella virus
+chikungunya virus
+semliki forest virus
+sindbis virus
+ross river virus
+porcine epidemic diarrhea virus
+sars virus
+coronavirus oc43
+infectious bronchitis virus
+porcine respiratory coronavirus
+coronavirus 229e
+torovirus
+roniviridae
+lactate dehydrogenase-elevating virus
+arteritis virus
+porcine respiratory and reproductive syndrome virus
+totivirus
+giardiavirus
+leishmaniavirus
+lassa virus
+lymphocytic choriomeningitis virus
+avastrovirus
+mamastrovirus
+picobirnavirus
+puumala virus
+sin nombre virus
+seoul virus
+hantaan virus
+sandfly fever naples virus
+uukuniemi virus
+rift valley fever virus
+bunyamwera virus
+la crosse virus
+simbu virus
+nairobi sheep disease virus
+hemorrhagic fever virus
+marburgvirus
+ebolavirus
+rabies virus
+vesicular stomatitis new jersey virus
+vesicular stomatitis indiana virus
+infectious hematopoietic necrosis virus
+ephemeral fever virus
+metapneumovirus
+murine pneumonia virus
+simian virus
+simian virus 5
+mumps virus
+parainfluenza virus
+parainfluenza virus 2
+parainfluenza virus 4
+newcastle disease virus
+hendra virus
+nipah virus
+distemper virus
+rinderpest virus
+measles virus
+peste-des-petits-ruminants virus
+parainfluenza virus 1
+sendai virus
+parainfluenza virus 3
+borna disease virus
+immunodeficiency virus
+jaagsiekte sheep retrovirus
+mammary tumor virus
+mason-pfizer monkey virus
+sarcoma virus
+trager duck spleen necrosis virus
+avian myeloblastosis virus
+rous sarcoma virus
+avian leukosis virus
+simian t-lymphotropic virus
+human t-lymphotropic virus
+simian t-lymphotropic virus 1
+human t-lymphotropic virus 1
+primate t-lymphotropic virus 3
+simian t-lymphotropic virus 2
+human t-lymphotropic virus 2
+leukemia virus
+simian foamy virus
+endogenous retrovirus
+retrovirus
+epsilonretrovirus
+rotavirus
+african horse sickness virus
+palyam virus
+bluetongue virus
+colorado tick fever virus
+orthoreovirus
+hepevirus
+calicivirus
+vesicular exanthema of swine virus
+hemorrhagic disease virus
+sapovirus
+norwalk virus
+infectious pancreatic necrosis virus
+infectious bursal disease virus
+entomobirnavirus
+kobuvirus
+maus elberfeld virus
+mengovirus
+columbia sk virus
+theilovirus
+poliovirus
+enterovirus
+enterovirus a
+enterovirus d
+enterovirus c
+echovirus
+echovirus 6
+echovirus 9
+rhinovirus
+teschovirus
+parechovirus
+erbovirus
+foot-and-mouth disease virus
+influenzavirus c
+isavirus
+influenza a virus
+influenza b virus
+thogotovirus
+diarrhea virus
+diarrhea virus 2
+diarrhea virus 1
+border disease virus
+classical swine fever virus
+west nile virus
+yellow fever virus
+dengue virus
+gb virus a
+rudiviridae
+myoviridae
+siphoviridae
+guttaviridae
+fuselloviridae
+lipothrixviridae
+hepatitis a virus
+hepacivirus
+murine hepatitis virus
+gb virus
+gb virus b
+gb virus c
+hepatitis e virus
+hepatitis delta virus
+tobacco mosaic satellite virus
+tobacco necrosis satellite virus
+sspe virus
+tectiviridae
+corticoviridae
+staphylococcus phage
+bacteriophage n4
+bacteriophage t3
+bacteriophage p22
+bacteriophage t7
+plectrovirus
+bacteriophage ike
+bacteriophage pf1
+bacteriophage phi 6
+salmonella phage
+streptococcus phage
+prophages
+bacteriophage m13
+t-phages
+levivirus
+allolevivirus
+bacteriophage phi x 174
+bacteriophage prd1
+microvirus
+bacillus phage
+mycobacteriophages
+pseudomonas phage
+rna phage
+oncogenic virus
+waikavirus
+sequivirus
+potexvirus
+carlavirus
+closterovirus
+crinivirus
+plum pox virus
+tobacco mosaic virus
+tymovirus
+luteovirus
+comovirus
+fabavirus
+nepovirus
+tenuivirus
+tospovirus
+tombusvirus
+carmovirus
+potyviridae
+tymoviridae
+oleavirus
+bromovirus
+cucumovirus
+ilarvirus
+alfalfa mosaic virus

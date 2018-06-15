@@ -1,0 +1,16 @@
+.metadata
+.project
+.pydevproject
+*.pyc
+ExeSysPrj/.settings
+Exesys/.settings
+dump.rdb
+ExeSysWebUI/build
+debug_log.txt
+dbpedia_interlink_languages.rdb
+dump-word-dict.rdb
+it-lexicon.csv
+word_pairs
+exesys.sublime-workspace
+.idea
+stdout
